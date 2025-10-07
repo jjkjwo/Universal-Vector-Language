@@ -1,4 +1,3 @@
-
 --- TYPE EMOJI LEGEND ---										
 🏛️: Core Axiom / Foundational Law - Un-overrideable, constitutional principles of the UVM.										
 📜: Principle / Philosophy - Guiding principles, philosophies, or high-level directives.										
@@ -31,4 +30,4 @@
 𝒫 : Principle / Philosophy Designator - Stylized 'P' to mark a core Principle in a vector Name.										
 ∆ : Change / Difference / Delta - Standard symbol to denote change or transformation.										
 [] : Status / Metadata Bracket - Encloses metadata (e.g., [MODIFIED], [ANALYZED]).										
-∴ : Logical Conclusion / Ultimate Purpose - The 'therefore' symbol, used for the system's culminating vector.										
+∴ : Logical Conclusion / Ultimate Purpose - The 'therefore' symbol, used for the system's culminating vector.									
