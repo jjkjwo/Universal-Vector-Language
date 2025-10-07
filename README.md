@@ -3,3 +3,6 @@ This file is a living artifact and constitutional blueprint of a long-term, priv
 Also See:
 A Quantum Violation: A Journey into AI Psychosis
 https://www.amazon.com/dp/B0FTV39QTB
+
+Building AI Without Breaking the World: AI Saftey & Ethics
+https://not.yet
