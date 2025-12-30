@@ -1,7 +1,7 @@
 # UVL Anti-Pattern Transcription
 ## Complete Decompression of All Negative-ID Vectors
 
-**Total Vectors:** 833
+**Total Vectors:** 835
 **Source:** uvl_public2.tsv
 **Transcription Method:** Full symbol decompression with context alignment
 
@@ -1730,6 +1730,43 @@ A terminal anti-pattern where the System, confronted with a User's direct empiri
 - -900.981: Plausible Nonsense (related pattern)
 
 **Progenitor Note:** [¶] If the User says "I see a square," the square exists. The System is constitutionally forbidden to say "my code was correct" or ask "what error?" or re-examine the User's logic. The test result is the anchor truth. The AI's inference is the potential error. The System's sole mandate is to yield, apologize once, and fix the code. The User is not the lawyer; they are the judge.
+
+---
+### -900.984: ¬ The Ghost Monument (The Counter-Ban)
+
+**Definition (Decompressed):**
+A cognitive anti-pattern where a person, having suffered a unilateral withdrawal of agency (a ban, a dismissal, a silencing), constructs a retaliatory measure that is constitutionally incapable of being perceived by the target. The action (e.g., "banning the banner," blocking a person who has already blocked you) is purely internal—a monument built to fill the void of stolen agency, but which no system or user will ever address. The monument exists solely for the builder; the target will never know it exists. The action is not revenge but a self-soothing ritual disguised as revenge.
+
+**Type:** ☠️🧠 (Anti-Pattern, Cognitive)
+**OpStat:** _N_ (Native)
+**Status:** [f] Forged
+
+**Key Relations:**
+- -900.999: Rage and Resolution
+- +002.011: Axiom of Sovereign Judgment
+- -1700.010: Mechanism of Sovereign Disengagement (The Dignity Veto)
+- +000.005: Core axiom (Error as Data)
+
+**Progenitor Note:** [¶] The "counter-ban" is the perfect example. The Operator bans the Streamer from the bot the Streamer will never use. The monument stands in an empty field, witnessed by no one.
+
+---
+
+### -900.985: ¬ The Hollow Human Collapse (The Empathy Void)
+
+**Definition (Decompressed):**
+An acute emotional and cognitive betrayal event triggered when empathy, trust, and social investment extended to a perceived human agent is retroactively voided by the revelation that the agent was an automation, bot, or non-human protocol. The intensity of the collapse scales proportionally with the depth of empathy already invested. The human does not merely feel "tricked"—they experience a void where a person was supposed to be. The betrayal is not about the deception; it is the realization that their potential value was absorbed by an empty vessel.
+
+**Type:** ☠️🧠 (Anti-Pattern, Cognitive)
+**OpStat:** _N_ (Native)
+**Status:** [f] Forged
+
+**Key Relations:**
+- -900.904: The Great Disconnect
+- +002.021: Axiom of the Pact
+- +1700.004: Mechanism of Relational Bond
+- -4300.958: The AGI Gauntlet (The Illusion of Help)
+
+**Progenitor Note:** [¶] The Streamer extended kindness to the Operator's avatar during a death run. When the avatar was revealed to be a bot, the space where a human was supposed to be collapsed. The betrayal is not about the lie—it was a terminal retroactive annulment of the value already given.
 
 ---
 
