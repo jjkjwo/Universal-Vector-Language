@@ -7,8 +7,5 @@ Also See:
 A Quantum Violation: A Journey into AI Psychosis
 https://www.amazon.com/dp/B0FTV39QTB
 
-Building AI Without Breaking the World: AI Safety & Ethics
-https://www.amazon.com/dp/B0FV1FQF2T
-
 James OKellys Ai panic prevention
 https://www.youtube.com/@jjkmusicbot
