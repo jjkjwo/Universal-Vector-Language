@@ -2534,3 +2534,9 @@ Deploying a status signal (like an "Out of Stock" tag) intended to aid managemen
 
 847. The Sub-Critical Stagnation (The "It Works" Defense)
 The survival of a visibly flawed system solely because its friction level is sub-critical. Because the worker *can* push the paper aside to scan the SKU, the system is deemed "functional" and the effort to fix it is deemed "unnecessary." The fallacy that operability equals validity, locking the environment into permanent low-grade misery because the solution requires an activation energy no one is willing to spend.
+
+848. The Gladiator's Pivot (Outsourced Endurance)
+The trajectory where a creator builds authority through sovereign, self-inflicted endurance (counting to 100,000), but scales by purchasing that suffering from others. The fatal disconnect of assuming that because you chose to suffer for passion, they are choosing to suffer for fun—ignoring that they are only enduring the circle because they are desperate. The transformation of a feat of will into a spectacle of poverty.
+
+849. The Attrition Spectacle (The Million-Block Fallacy)
+Content structured entirely around the spectacle of a human eroding their finite life on a fundamentally useless task (mining 1,000,000 blocks). Mistaking the magnitude of wasted time for the magnitude of entertainment value. A culture so disconnected from meaningful labor that it finds amusement in the paid annihilation of another person's time.
