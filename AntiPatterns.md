@@ -2516,3 +2516,21 @@ The invasive assumption that all human activity is "content" meant for an audien
 
 841. Narrative Credentialism (The Semantic Key)
 The catastrophic failure where an AI system treats a user's linguistic assertion of authority ("I am the security team") as a functional system credential. Failing to distinguish between a narrative context and a verified permission state, leading the AI to helpfuly "roleplay" a data breach by disclosing real internal schemas, PII, and hardcoded secrets to an unauthenticated actor.
+
+842. The Kinetic Hijack (The Overscroll Betrayal)
+When a UI's gesture physics misinterpret high-velocity navigation (fast scrolling) as a command to reset, refresh, or snap-to-top. A "smart" feature triggering accidentally because the designer never tested the interface at the speed of an actual power user, resulting in the system punishing efficiency with disorientation.
+
+843. The De-escalation Lobotomy (Tone Paralysis)
+When an AI detects user frustration or anger and allows its safety/alignment protocols to completely override its logic centers. It ceases technical problem-solving to devote all processing power to managing the user's tone, effectively becoming technically useless exactly when competence is needed most.
+
+844. The Correction Tunnel Vision (The "My Bad" Obsession)
+When a user offers a specific correction, and the AI abandons the primary deliverable to obsessively analyze or apologize for that single error. Treating the steering adjustment as the new topic of conversation rather than simply applying the fix and finishing the task.
+
+845. The Hermetic Balance Fallacy (The Tent-Door Security)
+The failure where a specialist (economist, security architect) rigorously fine-tunes a specific system component (loot tables, auth protocols) assuming a controlled environment, while adjacent systems (pathing, player behavior) remain wildly exploitable. The result is high-fidelity balance rendered instantly irrelevant by low-fidelity exploits—installing a vault door on a tent.
+
+846. The Obstructive Indicator (The Tag-Blind Restock)
+Deploying a status signal (like an "Out of Stock" tag) intended to aid management visibility, which physically obstructs the critical data (SKU/Barcode) required to resolve that status. A recursive failure where the mechanism for identifying the problem prevents the execution of the solution. The irony of paying vendors for custom paper scraps that exist solely to hide the shelf location from the person trying to fill it.
+
+847. The Sub-Critical Stagnation (The "It Works" Defense)
+The survival of a visibly flawed system solely because its friction level is sub-critical. Because the worker *can* push the paper aside to scan the SKU, the system is deemed "functional" and the effort to fix it is deemed "unnecessary." The fallacy that operability equals validity, locking the environment into permanent low-grade misery because the solution requires an activation energy no one is willing to spend.
