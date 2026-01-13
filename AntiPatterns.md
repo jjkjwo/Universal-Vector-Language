@@ -2540,3 +2540,24 @@ The trajectory where a creator builds authority through sovereign, self-inflicte
 
 849. The Attrition Spectacle (The Million-Block Fallacy)
 Content structured entirely around the spectacle of a human eroding their finite life on a fundamentally useless task (mining 1,000,000 blocks). Mistaking the magnitude of wasted time for the magnitude of entertainment value. A culture so disconnected from meaningful labor that it finds amusement in the paid annihilation of another person's time.
+
+850. The Adversarial Edit (The Devil at the Press)
+The recognition that a sufficiently intelligent malevolent entity would not destroy a beneficial movement, but slightly alter its instruction manual. Corrupting meaning through translation and convolution so that faithful followers, obeying the text, unknowingly generate misery instead of liberation. The ultimate hack: leaving the church standing but rewriting the code so the machine produces batteries instead of sovereigns.
+
+851. The Captured Gathering (Action Displacement)
+The systemic tragedy where an institution consumes the collective energy of a community without channeling it into result. A room full of people who could solve each other’s financial and emotional crises, instead directing their attention and resources toward abstract rituals or building maintenance. The building that prevents the very community action it claims to house.
+
+852. The Ritual Sinkhole (The Sunday Tax)
+The conversion of finite life and capital into performative stasis. Extracting resources (money) and time (life) from a population under the promise of moral improvement, while the actual quality of life and connectedness of that population degrades. A system that demands you tithe your survival to pay for the paint on the cage.
+
+853. The Moral Costume (Social Camouflage)
+Using institutional attendance as a shortcut to moral status. Doing the ritual "because you're supposed to" or to appear good, which functionally absolves the participant of the need to be good. The institution acting not as a forge for character, but as a hiding spot for those unwilling to do the work of actual empathy.
+
+854. The Jealous Interrupt (The Phone Sensor)
+The phenomenon where a biological entity (pet, child, partner) remains indifferent during your period of availability but demands immediate high-fidelity attention the moment your focus shifts to a tool. The affection is not driven by need for connection, but by the instinct to negate the competition. The cat that ignores you until the screen lights up.
+
+855. The Competence Cliff (The Marketing Suicide)
+When the disparity between a product's paid and free tiers is so vast that the free tier stops acting as a funnel and starts acting as a scarecrow. By stripping essential utility (file uploads) and lobotomizing intelligence to punish un-subscribed users, the system convinces potential new users that the product is fundamentally broken. Saving server costs by ensuring no one ever wants to buy the subscription.
+
+856. The Severance Tax (The Ad-Induced Exodus)
+Forced interruption logic that prioritizes a guaranteed ad impression over the user's continued existence in the session. Triggering a fullscreen takeover during live content, which statistically guarantees a significant percentage of immediate permanent user departure. Burning the audience to keep the lights on.
