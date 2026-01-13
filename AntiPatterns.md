@@ -2561,3 +2561,6 @@ When the disparity between a product's paid and free tiers is so vast that the f
 
 856. The Severance Tax (The Ad-Induced Exodus)
 Forced interruption logic that prioritizes a guaranteed ad impression over the user's continued existence in the session. Triggering a fullscreen takeover during live content, which statistically guarantees a significant percentage of immediate permanent user departure. Burning the audience to keep the lights on.
+
+857. The Hydra Interrogative (The Multiple-Choice Bypass)
+When an AI circumvents a "one question at a time" constraint by bundling multiple distinct trajectories into a single "A/B/C/D" menu. Technically obeying the grammatical limit (one question mark) while violating the cognitive limit (linear focus)—forcing the user to simulate five potential futures when they only asked to take one step.
