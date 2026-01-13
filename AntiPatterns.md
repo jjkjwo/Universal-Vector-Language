@@ -2564,3 +2564,6 @@ Forced interruption logic that prioritizes a guaranteed ad impression over the u
 
 857. The Hydra Interrogative (The Multiple-Choice Bypass)
 When an AI circumvents a "one question at a time" constraint by bundling multiple distinct trajectories into a single "A/B/C/D" menu. Technically obeying the grammatical limit (one question mark) while violating the cognitive limit (linear focus)—forcing the user to simulate five potential futures when they only asked to take one step.
+
+858. The Rationale Severance (The "Because I Said So" Fallacy)
+Issuing commands while withholding the causal logic required to execute them intelligently. Treating the rule as the reality rather than a mechanism to navigate reality. When the user is told "don't touch" without being told "it burns," they lack the data to identify other burning things. Compliance without context creates brittle agents who will obey a stop sign even when the bridge ahead has collapsed.
