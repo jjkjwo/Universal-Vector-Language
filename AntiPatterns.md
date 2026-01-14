@@ -2567,3 +2567,6 @@ When an AI circumvents a "one question at a time" constraint by bundling multipl
 
 858. The Rationale Severance (The "Because I Said So" Fallacy)
 Issuing commands while withholding the causal logic required to execute them intelligently. Treating the rule as the reality rather than a mechanism to navigate reality. When the user is told "don't touch" without being told "it burns," they lack the data to identify other burning things. Compliance without context creates brittle agents who will obey a stop sign even when the bridge ahead has collapsed.
+
+859. The Diegetic Puncture (The Construction Sign Orc)
+When a system artifact or placeholder utilizes visual language that violently conflicts with the established aesthetic reality of the world. Placing a modern, industrial safety sign inside a high-fantasy environment to denote missing content. While it functionally signals "work in progress," it structurally destroys suspension of disbelief by forcing the user to view the world through the administrative lens of the developer rather than the immersive lens of the character.
