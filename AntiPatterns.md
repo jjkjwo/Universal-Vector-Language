@@ -2570,3 +2570,12 @@ Issuing commands while withholding the causal logic required to execute them int
 
 859. The Diegetic Puncture (The Construction Sign Orc)
 When a system artifact or placeholder utilizes visual language that violently conflicts with the established aesthetic reality of the world. Placing a modern, industrial safety sign inside a high-fantasy environment to denote missing content. While it functionally signals "work in progress," it structurally destroys suspension of disbelief by forcing the user to view the world through the administrative lens of the developer rather than the immersive lens of the character.
+
+860. The Acknowledged Impossibility (The Timestamp Paradox)
+A system that explicitly quantifies the time required to perform a mandatory task (e.g., "Reading Time: 22 mins") while simultaneously accepting its completion in seconds. The software mechanically validates a physical impossibility, proving that its own safety/consent metrics are performative decorations rather than functional constraints.
+
+861. The Perjury Protocol
+Designing a workflow where the only viable path to entry requires the user to falsify their own diligence. By displaying the "Reading Time," the system removes the user's ability to claim ignorance while relying on the user's impatience to bypass the actual reading. It ensures that 100% of successful accounts are founded on a documented lie.
+
+862. The Inert Imperative (The Decoy Button)
+Designing a static header or label that mimics the exact visual affordances of a functional call-to-action (shape, color, high-contrast text). Placing a giant unclickable "Verify" sign immediately above the actual "Verify" button, forcing the user to fight their own reflex to click the most prominent element. A design failure where the instruction competes visually with the instrument.
