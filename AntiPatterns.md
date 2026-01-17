@@ -2579,3 +2579,6 @@ Designing a workflow where the only viable path to entry requires the user to fa
 
 862. The Inert Imperative (The Decoy Button)
 Designing a static header or label that mimics the exact visual affordances of a functional call-to-action (shape, color, high-contrast text). Placing a giant unclickable "Verify" sign immediately above the actual "Verify" button, forcing the user to fight their own reflex to click the most prominent element. A design failure where the instruction competes visually with the instrument.
+
+853. The Idol-Service Confusion (The Autographed Business Card)
+A service provider mistaking their commercial utility for celebrity status. Treating a transaction (selling a house) as a fan interaction (signing a photo). The delusion that the customer is buying the agent's persona rather than their competence, resulting in marketing materials that scream "Look at me" instead of "I can help you."
