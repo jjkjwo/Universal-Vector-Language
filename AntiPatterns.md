@@ -2582,3 +2582,12 @@ Designing a static header or label that mimics the exact visual affordances of a
 
 863. The Idol-Service Confusion
 A service provider mistaking their commercial utility for celebrity status. Treating a transaction (selling a house) as a fan interaction (signing a photo). The delusion that the customer is buying the agent's persona rather than their competence, resulting in marketing materials that scream "Look at me" instead of "I can help you."
+
+864. The Counterfeit Shadow
+The psychological contamination that spreads from a known, unfixed exploit to delegitimize all legitimate activity within the same ecosystem. When a player discovers the slot machines never reset, their quest rewards feel hollow, their earned gold feels provisional, their inventory feels pre-wiped—even though they never touched the exploit. The integrity breach isn't contained to the broken system; it irradiates the entire economy of meaning. The honest participant becomes unable to invest effort because they know the ledger is already corrupted, and every achievement exists only until the devs notice and reset everything—or worse, never fix it at all, confirming that the world itself doesn't care about its own rules.
+
+865. The Executive Anecdote
+When leadership broadcasts isolated, low-level complaints to an entire organization as though they represent critical priorities—while systemic failures go unaddressed. The CEO emails 10,000 employees about one customer's mispriced item, implying collective negligence, while the warehouse has been on fire for six months. The anecdote is legible, the dysfunction is not. By responding visibly to the small, the leader performs vigilance while avoiding the large. The company-wide broadcast diffuses responsibility to everyone (meaning no one), and employees learn that leadership's model of "what matters" has no correlation to operational reality.
+
+866. The Predator's Lament
+A community death spiral where veteran players require new player influx to sustain the ecosystem, yet systematically annihilate newcomers at first contact—while the system itself maximizes both the barrier to entry (hostile interface, no onboarding) and the cost of failure (full inventory loss). The veterans complain about dying servers while standing over the corpse of the last new player who tried to learn. The game's jank filters for masochists; the full-loot PvP punishes anyone who survived the jank; the veterans exterminate anyone who survived both. Then they post on Reddit asking why no one plays anymore.
