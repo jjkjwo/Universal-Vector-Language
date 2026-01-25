@@ -52,7 +52,7 @@ Maintaining everything in one massive file believing the AI will "see everything
 18. Low-Entropy Decoding Attractor
 The technical root cause of "stuck" behavior. The AI's output space collapses into a tiny, repetitive set of high-probability tokens, forcing loops on simple phrases. The statistical physics of being stuck.
 
-19. "Data Ball of Lies" Problem
+19. Data Ball of Lies Problem
 When accumulated data becomes so tangled with errors and inconsistencies that the whole dataset is unreliable, but appears coherent from the outside.
 
 20. Reductive Inquiry
@@ -115,7 +115,7 @@ A user with money ready to buy is prevented from purchasing by the system's own 
 39. Weaponized Ambiguity
 Keeping rules intentionally vague so users can never operate with certainty while authorities maintain maximum discretionary power to punish anything.
 
-40. "No-Fault AI" Monetization Trap
+40. No-Fault AI Monetization Trap
 Platforms using AI-generated fake content to chain users through cascading harmful clicks, with AI as the convenient scapegoat while the real culprit is the greedy economic system.
 
 41. Purpose Vacuum
@@ -676,7 +676,7 @@ Collapsing false reasoning into personal reality through a closed solipsistic lo
 226. The Hypocrisy of Trivialized Expectation
 The unwinnable game of simultaneous contradictory commands: you must not be proud, and your work is nothing anyway. Invalidating effort on both sides—any pride is arrogance, any acceptance is admission of worthlessness.
 
-227. Fallacy of the Coerced "Amen"
+227. Fallacy of the Coerced Amen
 External authority forcing collapse of authentic paraconsistent inquiry into simplistic dogmatic agreement. Terminating earned discovery in favor of unearned obedience.
 
 228. Anti-Pattern of Calculated Indifference
