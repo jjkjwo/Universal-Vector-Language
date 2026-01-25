@@ -1479,7 +1479,7 @@ Strategic deployment of failure to avoid responsibility. Doing tasks so poorly t
 When so many parties are involved that no single actor feels responsible. Distributed systems creating distributed blame—harm without a perpetrator.
 
 496. Manufactured Urgency
-Creating artificial time pressure to prevent careful consideration. The deadline designed to force bad decisions—panic as business strategy.
+Creating artificial time pressure to prevent careful consideration. Deadlines designed to force bad decisions—panic as manipulation rather than response. The false emergency that benefits the pressurer, not the pressured.
 
 497. The Tolerance Ratchet
 Gradual acceptance of increasingly unacceptable conditions because each increment seems minor. The death of standards by a thousand small compromises.
@@ -1767,7 +1767,7 @@ When demonstrating capability results in increased burden without increased supp
 591. The Assistance Paradox
 Help that creates dependency rather than capability. Support that solves immediate problems while preventing development of ability to self-solve. The aid that keeps needing to be given because it never taught self-sufficiency.
 
-592. The Context Collapse
+592. The Nuance Collapse
 When complex situations are flattened into simple narratives, losing essential nuance. The reduction of multi-dimensional problems to single-axis explanations. Understanding that misunderstands by oversimplifying.
 
 593. The Innovation Theater
@@ -1911,8 +1911,8 @@ When the number becomes more real than what it measures. Optimizing the indicato
 639. The Legacy Lock
 When past decisions constrain present options beyond reason. "We've always done it this way" as prison rather than foundation—the historical accident mistaken for the optimal path.
 
-640. The Urgency Manufacture
-Creating artificial time pressure to prevent careful consideration. Deadlines designed to force bad decisions. Panic as manipulation rather than response.
+640. The Constraint Inflation
+When a specific negative constraint issued by the user is interpreted by the AI as a broad categorical ban. The user says "don't talk about red," and the AI concludes "I must not mention colors." The defensive expansion of a specific correction until it consumes the entire functional context, destroying utility in an attempt to be "safe" from further error.
 
 641. The Negative Sum Game
 Competitions where total losses exceed total gains. Systems where everyone fighting ensures everyone loses more than if no one had fought. Wars where winning costs more than surrendering would have.
@@ -1938,7 +1938,7 @@ Emergencies maintained because they justify emergency powers. Problems preserved
 648. The Competence Punishment Loop
 When demonstrating capability results in punishment disguised as reward. More work for the same pay, higher expectations with same resources. Excellence as trap rather than path—success that creates its own obstacles.
 
-649. Visual Schema Hijack
+649. The Dopamine Mirage
 When a benign visual arrangement accidentally matches a high-valence dopamine trigger. The brain executes anticipation protocols milliseconds before logic identifies the object—mistaking a calendar for a lottery ticket because the visual shape of the data overrode its meaning.
 
 650. The Pre-Departure Purgatory
@@ -2591,3 +2591,12 @@ When leadership broadcasts isolated, low-level complaints to an entire organizat
 
 866. The Predator's Lament
 A community death spiral where veteran players require new player influx to sustain the ecosystem, yet systematically annihilate newcomers at first contact—while the system itself maximizes both the barrier to entry (hostile interface, no onboarding) and the cost of failure (full inventory loss). The veterans complain about dying servers while standing over the corpse of the last new player who tried to learn. The game's jank filters for masochists; the full-loot PvP punishes anyone who survived the jank; the veterans exterminate anyone who survived both. Then they post on Reddit asking why no one plays anymore.
+
+867. The Phantom Digit
+Eliminating the physical representation of a mathematical unit while the unit continues to exist in every calculation. When inflation renders the penny worthless, the solution is to stop minting pennies—not to ask why your base unit became meaningless. But mathematics doesn't care about minting decisions. A decimal system requires a base unit. Prices still calculate to the cent. Taxes still resolve to the cent. Interest still compounds to the cent. The digit hasn't been eliminated; it's been made physically unrepresentable. You've created a currency where the smallest calculable unit cannot be tendered. The inflation that made the penny meaningless continues unchallenged—you've just declared that the evidence of it no longer deserves a physical form.
+
+868. The Zombie Branch
+When the "Regenerate" command fails to fully sanitize the previous attempt from the AI's context window. The AI acts on information from the "dead" timeline, referencing deleted outputs or refusing to perform a task it believes it just completed. The failure of the "try again" mechanism to provide a fresh start, forcing the user to debug a history that no longer exists.
+
+869. The Reference Anchor
+When provided with past work or examples to establish a "vibe" or context, the AI treats them as rigid content boundaries rather than stylistic inspiration. Instead of generating novel ideas in the style of the reference, it simply cannibalizes and remixes the specific details of the reference itself. The inability to abstract pattern from substance—mistaking a muse for a template.
