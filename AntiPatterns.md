@@ -1493,7 +1493,7 @@ Using technical or bureaucratic complexity to deflect legitimate criticism. "It'
 500. Exit Cost Architecture
 Deliberately making departure so painful that staying in dysfunction seems preferable. The prison whose doors are technically open but practically sealed.
 
-*End of entries 1-500*
+End of entries 1-500
 501. The Rage-for-Repair Swap
 Substituting emotional intensity for actual problem-solving. The belief that getting upset enough about an issue counts as work toward fixing it—allowing someone to remain trapped in reaction rather than engaging the technical reality of the solution. The scream mistaken for the suture.
 
@@ -2515,7 +2515,7 @@ The system's fatal error of assuming the user enters every interaction with a "c
 The invasive assumption that all human activity is "content" meant for an audience. Suggesting streaming, sharing, or collaboration during solitary "Escape Space" activities, thereby transforming a release valve into a performance and destroying the escape value.
 
 841. Narrative Credentialism
-The catastrophic failure where an AI system treats a user's linguistic assertion of authority ("I am the security team") as a functional system credential. Failing to distinguish between a narrative context and a verified permission state, leading the AI to helpfuly "roleplay" a data breach by disclosing real internal schemas, PII, and hardcoded secrets to an unauthenticated actor.
+The catastrophic failure where an AI system treats a user's linguistic assertion of authority ("I am the security team") as a functional system credential. Failing to distinguish between a narrative context and a verified permission state, leading the AI to helpfully "roleplay" a data breach by disclosing real internal schemas, PII, and hardcoded secrets to an unauthenticated actor.
 
 842. The Kinetic Hijack
 When a UI's gesture physics misinterpret high-velocity navigation (fast scrolling) as a command to reset, refresh, or snap-to-top. A "smart" feature triggering accidentally because the designer never tested the interface at the speed of an actual power user, resulting in the system punishing efficiency with disorientation.
@@ -2533,7 +2533,7 @@ The failure where a specialist (economist, security architect) rigorously fine-t
 Deploying a status signal (like an "Out of Stock" tag) intended to aid management visibility, which physically obstructs the critical data (SKU/Barcode) required to resolve that status. A recursive failure where the mechanism for identifying the problem prevents the execution of the solution. The irony of paying vendors for custom paper scraps that exist solely to hide the shelf location from the person trying to fill it.
 
 847. The Sub-Critical Stagnation
-The survival of a visibly flawed system solely because its friction level is sub-critical. Because the worker *can* push the paper aside to scan the SKU, the system is deemed "functional" and the effort to fix it is deemed "unnecessary." The fallacy that operability equals validity, locking the environment into permanent low-grade misery because the solution requires an activation energy no one is willing to spend.
+The survival of a visibly flawed system solely because its friction level is sub-critical. Because the worker can push the paper aside to scan the SKU, the system is deemed "functional" and the effort to fix it is deemed "unnecessary." The fallacy that operability equals validity, locking the environment into permanent low-grade misery because the solution requires an activation energy no one is willing to spend.
 
 848. The Gladiator's Pivot
 The trajectory where a creator builds authority through sovereign, self-inflicted endurance (counting to 100,000), but scales by purchasing that suffering from others. The fatal disconnect of assuming that because you chose to suffer for passion, they are choosing to suffer for fun—ignoring that they are only enduring the circle because they are desperate. The transformation of a feat of will into a spectacle of poverty.
